@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{jsx,js,ts,tsx}"
   ],
   theme: {
+    color:{
+      "promariy":"#ffffff"
+    },
     extend: {},
   },
   plugins: [],
