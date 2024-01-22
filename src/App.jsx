@@ -1,13 +1,11 @@
 import {} from 'react'
+import Header from './Copmonents/Header/Header'
 function App() {
   
 
   return (
     <>
-    <h1 className="text-3xl font-bold sm:underline">
-      Hello world
-    </h1>
-        
+    <Header></Header>
     </>
   )
 }
